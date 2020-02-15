@@ -1,3 +1,12 @@
+// Program to convert amount( in words )into amount(number)
+// Name : Vikas More
+// Roll : 539
+// College : Ferguson College (Autonomous), FC road, Pune.
+// Course  : Master Of Computer Science.
+// Year of study : 1st year
+// Language: Python3.7
+
+
 one = [ "", "one ", "two ", "three ", "four ", 
 
         "five ", "six ", "seven ", "eight ", 
