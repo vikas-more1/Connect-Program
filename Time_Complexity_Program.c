@@ -1,6 +1,9 @@
 // Program to find time complexities of functions
 // Name : Vikas More
 // Roll : 539
+// College : Ferguson College (Autonomous), FC road, Pune.
+// Course  : Master Of Computer Science.
+// Year of study : 1st year
 
 #include <stdio.h> 
 #include<time.h>
