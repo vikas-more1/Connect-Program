@@ -1,7 +1,7 @@
 // Language: Python3.7
 // Program to vadidate password field with certain rules.
 // Rule  1. Password should be atleast 6 characters.
-// Rule  2. It must contain atleast a lowercase character , 1 uppercase character , a digit and a special symbol [ #,@,# ].
+// Rule  2. It must contain atleast a lowercase character , a uppercase character , a digit and a special symbol [ $,@,# ].
 // Name : Vikas More.
 // College : FERGUSON COLLEGE ( AUTONOMOUS ), FC ROAD, PUNE.
 // Department  of Computer Scienece ( PG )
